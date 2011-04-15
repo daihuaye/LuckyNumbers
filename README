@@ -2,4 +2,6 @@ Here is a demo for using ASIHTTPRequest to send a JSON request to server. Once g
 
 For the server, I use google host server to store my test.json file.
 
+License: MIT
+
 Here is the link to the json data: https://test-data-app.googlecode.com/svn/trunk/test.json
