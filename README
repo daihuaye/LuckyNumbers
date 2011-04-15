@@ -1,0 +1,5 @@
+Here is a demo for using ASIHTTPRequest to send a JSON request to server. Once getting the JSON data back, using a JSON parser to convert the data to computable format in objective-c. 
+
+For the server, I use google host server to store my test.json file.
+
+Here is the link to the json data: https://test-data-app.googlecode.com/svn/trunk/test.json
