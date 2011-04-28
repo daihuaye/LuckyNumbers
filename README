@@ -1,6 +1,12 @@
-Here is a demo for using ASIHTTPRequest to send a JSON request to server. Once getting the JSON data back, using a JSON parser to convert the data to computable format in objective-c. 
+This is one of my iphone projects. 
+
+The app is using ASIHTTPRequest to send a JSON request to server. Once getting the JSON data back, using a JSON parser to convert the data to computable format in objective-c. 
 
 For the server, I use google host server to store my test.json file.
+
+Some summary of using iphone GEOLocation library:
+1, it is interesting concept of using delegate in iphone app.
+2, The delegate is the object itself and autoload the delegate method that you have to overwrite in order to ask the iphone to locate a place.
 
 License: MIT
 
