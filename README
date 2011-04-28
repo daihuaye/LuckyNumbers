@@ -1,3 +1,5 @@
+Developer: Daihua Ye
+
 This is one of my iphone projects. 
 
 The app is using ASIHTTPRequest to send a JSON request to server. Once getting the JSON data back, using a JSON parser to convert the data to computable format in objective-c. 
@@ -11,3 +13,5 @@ Some summary of using iphone GEOLocation library:
 License: MIT
 
 Here is the link to the json data: https://test-data-app.googlecode.com/svn/trunk/test.json
+
+Thanks for Rayn Detert's help.
